@@ -1,5 +1,5 @@
 ## Metrics Headers:
-Please find below a sample from our metrics dataset describing the headers for 250 metrics collected by Prometheus from 10 microservice pods running in our Kubernetes cluster:
+Please find below a sample from our metrics dataset describing the headers for 250 metrics collected by Prometheus from 10 application microservice pods running in our Kubernetes cluster:
 
 |timestamp|node|pod|metric_name|container|resource|
 |-|-|-|-|-|-|
