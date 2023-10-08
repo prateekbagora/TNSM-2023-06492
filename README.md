@@ -1,7 +1,7 @@
 # TNSM-2023-06492
 Labeling Cloud Metrics Data for Fault Detection in Cloud using Active Learning with Test Suite
 
-|	timestamp	|	node	|	pod	|	metric_name	|	container	|	resource	|	value	|
+|	**timestamp**	|	**node**	|	**pod**	|	**metric_name**	|	**container**	|	**resource**	|	**value**	|
 |	1670232010	|	worker-1	|	cartservice-5b55955654-rntrt	|	container_cpu_cfs_periods_total	|	server	|		|	4297962	|
 |	1670232010	|	worker-1	|	cartservice-5b55955654-rntrt	|	container_cpu_cfs_periods_total	|		|		|	4297896	|
 |	1670232010	|	worker-1	|	cartservice-5b55955654-rntrt	|	container_cpu_cfs_throttled_periods_total	|	server	|		|	118600	|
