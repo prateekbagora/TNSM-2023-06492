@@ -2,7 +2,7 @@
 Please find below a sample from our metrics dataset describing the headers for 250 metrics collected by Prometheus from 10 application microservice pods running in our Kubernetes cluster:
 
 |timestamp|node|pod|metric_name|container|resource|
-|:---|:---|:---|:---|:---|:---|
+|:----------|:--------|:---|:---|:--------|:---------|
 |1670232010|worker-1|cartservice-5b55955654-rntrt|`container_cpu_cfs_periods_total`|server||
 |1670232010|worker-1|cartservice-5b55955654-rntrt|`container_cpu_cfs_periods_total`|||
 |1670232010|worker-1|cartservice-5b55955654-rntrt|`container_cpu_cfs_throttled_periods_total`|server||
