@@ -3,7 +3,6 @@ Labeling Cloud Metrics Data for Fault Detection in Cloud using Active Learning w
 
 |index|timestamp|node|pod|metric_name|container|resource|
 |-|-|-|-|-|-|-|
-|index|timestamp|node|pod|metric_name|container|resource|
 |1|1670232010|worker-1|cartservice-5b55955654-rntrt|container_cpu_cfs_periods_total|server||
 |2|1670232010|worker-1|cartservice-5b55955654-rntrt|container_cpu_cfs_periods_total|||
 |3|1670232010|worker-1|cartservice-5b55955654-rntrt|container_cpu_cfs_throttled_periods_total|server||
